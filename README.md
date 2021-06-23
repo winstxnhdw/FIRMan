@@ -22,4 +22,4 @@ Removing the single-frequency noise was simple but while I was looking for the o
 </div>
 
 ## Potential Improvements
-Looking back, I think finding the mean distance instead may have weakened the weight of any compounded errors and better representing similitude.
+Looking back, I think finding the mean distance instead may have weakened the weight of any compounded errors and representing the similitude results better.
