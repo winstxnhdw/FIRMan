@@ -12,7 +12,7 @@ The role of a FIR is to capture and remove noise signals. The purpose of this st
 </div>
 
 ## Results
-Removing the single-frequency noise was simple but while I was looking for the optimum filter order for the different filters, I observed a chaotic relationship between similitude and filter order, with many dips. I calculated similitude by computing the Manhattan distance between the original and filtered signal, where a smaller Manhattan distance would imply that the filtered signal more closely resembles the original signal.
+Removing the single-frequency noise was simple but while I was looking for the optimum filter order for the different filters, I observed a chaotic relationship between similitude and filter order. I calculated similitude by computing the Manhattan distance between the original and filtered signal, where a smaller Manhattan distance would imply that the filtered signal more closely resembles the original.
 
 <div align="center">
   <div class="row">
