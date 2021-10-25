@@ -22,4 +22,4 @@ Removing the single-frequency noise was simple but while I was looking for the o
 </div>
 
 ## Potential Improvements
-Looking back, instead of finding the lowest Manhattan distance, computing the mean distance may have weakened the weight of any compounded errors and represented the similitude results better.
+Looking back, instead of finding the lowest Manhattan distance, computing the mean distance may have weakened the weight of any compounded errors and represented the similitude results better. Might have been good to try cosine similarity as well.
